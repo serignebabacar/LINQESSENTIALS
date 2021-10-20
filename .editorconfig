@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1310: Spécifier StringComparison à des fins de précision
+dotnet_diagnostic.CA1310.severity = none
